@@ -1,12 +1,11 @@
-## Welcome to GitHub Pages
+## Welcome to Anurag's Webpage
 
-You can use the [editor on GitHub](https://github.com/anunaive/anunaive.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+A CA Final Student. Interested in Photography, Music, Reading books, Writing, Chess, Gaming.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Aim of life
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+My life's motive is to lead happier life without any regrets and to be able to help people who are in need of it through my knowledge.
 
 ```markdown
 Syntax highlighted code block
